@@ -1,0 +1,7 @@
+# root.ldif
+dn: dc=solea,dc=local
+objectClass: top
+objectClass: dcObject
+objectclass: organization
+o: solea
+dc: solea
