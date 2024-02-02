@@ -1,2 +1,2 @@
 # basic_ldap
-This is my personal LDAP server setup.
+This is my personal library/command for LDAP server.
